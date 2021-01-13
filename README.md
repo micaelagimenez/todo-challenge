@@ -25,8 +25,8 @@ En http://127.0.0.1:8000/todo/ aparece la lista de tareas de esta manera:
     }
 ]
 ```
-En la parte posterior se pueden agregar nuevas tareas y configurar su título descripción y status de compleción. Al ser creadas, las tareas tedrán automáticamente asignadas la fecha de creación de las mismas. 
-Las tareas pueden ser filtradas según su contenido o la fecha de elaboración.
+En la parte posterior se pueden agregar nuevas tareas y configurar su título descripción y status de compleción. Al ser creadas, las tareas tedrán automáticamente asignadas la fecha de creación de las mismas. <br>
+Las tareas pueden ser filtradas según su contenido o la fecha de elaboración.<br>
 Se puede acceder a una tarea en particular a través de su número de id: http://127.0.0.1:8000/todo/1/, por ejemplo. Allí se puede eliminar la tarea si así lo desea.
 
 ## Setup

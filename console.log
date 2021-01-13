@@ -1,0 +1,127 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:38:13
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:38:39
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+{'concurrent.futures': <Logger concurrent.futures (WARNING)>, 'concurrent': <logging.PlaceHolder object at 0x0000022E85C2C848>, 'asyncio': <Logger asyncio (WARNING)>, 'django.utils.autoreload': <Logger django.utils.autoreload (INFO)>, 'django.utils': <logging.PlaceHolder object at 0x0000022E85EEE808>, 'django': <Logger django (INFO)>, 'django.template': <Logger django.template (INFO)>, 'django.db.backends': <Logger django.db.backends (INFO)>, 'django.db': <logging.PlaceHolder object at 0x0000022E86A186C8>, 'django.request': <Logger django.request (INFO)>, 'django.server': <Logger django.server (INFO)>, 'todo': <Logger todo (INFO)>, 'django.security.csrf': <Logger django.security.csrf (INFO)>, 'django.security': <logging.PlaceHolder object at 0x0000022E86CF4088>, 'django.db.backends.schema': <Logger django.db.backends.schema (INFO)>, 'urllib3.util.retry': <Logger urllib3.util.retry (WARNING)>, 'urllib3.util': <logging.PlaceHolder object at 0x0000022E87576C08>, 'urllib3': <Logger urllib3 (WARNING)>, 'urllib3.connection': <Logger urllib3.connection (WARNING)>, 'urllib3.response': <Logger urllib3.response (WARNING)>, 'urllib3.connectionpool': <Logger urllib3.connectionpool (WARNING)>, 'urllib3.poolmanager': <Logger urllib3.poolmanager (WARNING)>, 'socks': <Logger socks (WARNING)>, 'requests': <Logger requests (WARNING)>}
+{'concurrent.futures': <Logger concurrent.futures (WARNING)>, 'concurrent': <logging.PlaceHolder object at 0x0000022E85C2C848>, 'asyncio': <Logger asyncio (WARNING)>, 'django.utils.autoreload': <Logger django.utils.autoreload (INFO)>, 'django.utils': <logging.PlaceHolder object at 0x0000022E85EEE808>, 'django': <Logger django (INFO)>, 'django.template': <Logger django.template (INFO)>, 'django.db.backends': <Logger django.db.backends (INFO)>, 'django.db': <logging.PlaceHolder object at 0x0000022E86A186C8>, 'django.request': <Logger django.request (INFO)>, 'django.server': <Logger django.server (INFO)>, 'todo': <Logger todo (INFO)>, 'django.security.csrf': <Logger django.security.csrf (INFO)>, 'django.security': <logging.PlaceHolder object at 0x0000022E86CF4088>, 'django.db.backends.schema': <Logger django.db.backends.schema (INFO)>, 'urllib3.util.retry': <Logger urllib3.util.retry (WARNING)>, 'urllib3.util': <logging.PlaceHolder object at 0x0000022E87576C08>, 'urllib3': <Logger urllib3 (WARNING)>, 'urllib3.connection': <Logger urllib3.connection (WARNING)>, 'urllib3.response': <Logger urllib3.response (WARNING)>, 'urllib3.connectionpool': <Logger urllib3.connectionpool (WARNING)>, 'urllib3.poolmanager': <Logger urllib3.poolmanager (WARNING)>, 'socks': <Logger socks (WARNING)>, 'requests': <Logger requests (WARNING)>}
+{'concurrent.futures': <Logger concurrent.futures (WARNING)>, 'concurrent': <logging.PlaceHolder object at 0x0000022E85C2C848>, 'asyncio': <Logger asyncio (WARNING)>, 'django.utils.autoreload': <Logger django.utils.autoreload (INFO)>, 'django.utils': <logging.PlaceHolder object at 0x0000022E85EEE808>, 'django': <Logger django (INFO)>, 'django.template': <Logger django.template (INFO)>, 'django.db.backends': <Logger django.db.backends (INFO)>, 'django.db': <logging.PlaceHolder object at 0x0000022E86A186C8>, 'django.request': <Logger django.request (INFO)>, 'django.server': <Logger django.server (INFO)>, 'todo': <Logger todo (INFO)>, 'django.security.csrf': <Logger django.security.csrf (INFO)>, 'django.security': <logging.PlaceHolder object at 0x0000022E86CF4088>, 'django.db.backends.schema': <Logger django.db.backends.schema (INFO)>, 'urllib3.util.retry': <Logger urllib3.util.retry (WARNING)>, 'urllib3.util': <logging.PlaceHolder object at 0x0000022E87576C08>, 'urllib3': <Logger urllib3 (WARNING)>, 'urllib3.connection': <Logger urllib3.connection (WARNING)>, 'urllib3.response': <Logger urllib3.response (WARNING)>, 'urllib3.connectionpool': <Logger urllib3.connectionpool (WARNING)>, 'urllib3.poolmanager': <Logger urllib3.poolmanager (WARNING)>, 'socks': <Logger socks (WARNING)>, 'requests': <Logger requests (WARNING)>}
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:43:31
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:43:37
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+{'concurrent.futures': <Logger concurrent.futures (WARNING)>, 'concurrent': <logging.PlaceHolder object at 0x00000158F930C8C8>, 'asyncio': <Logger asyncio (WARNING)>, 'django.utils.autoreload': <Logger django.utils.autoreload (INFO)>, 'django.utils': <logging.PlaceHolder object at 0x00000158F95CE988>, 'django': <Logger django (INFO)>, 'django.template': <Logger django.template (INFO)>, 'django.db.backends': <Logger django.db.backends (INFO)>, 'django.db': <logging.PlaceHolder object at 0x00000158FA0F87C8>, 'django.request': <Logger django.request (INFO)>, 'django.server': <Logger django.server (INFO)>, 'challenge': <Logger challenge (INFO)>, 'django.security.csrf': <Logger django.security.csrf (INFO)>, 'django.security': <logging.PlaceHolder object at 0x00000158FA3D4148>, 'django.db.backends.schema': <Logger django.db.backends.schema (INFO)>, 'urllib3.util.retry': <Logger urllib3.util.retry (WARNING)>, 'urllib3.util': <logging.PlaceHolder object at 0x00000158FABC5D48>, 'urllib3': <Logger urllib3 (WARNING)>, 'urllib3.connection': <Logger urllib3.connection (WARNING)>, 'urllib3.response': <Logger urllib3.response (WARNING)>, 'urllib3.connectionpool': <Logger urllib3.connectionpool (WARNING)>, 'urllib3.poolmanager': <Logger urllib3.poolmanager (WARNING)>, 'socks': <Logger socks (WARNING)>, 'requests': <Logger requests (WARNING)>, 'challenger': <Logger challenger (WARNING)>}
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:44:16
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:54:46
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:54:54
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:55:53
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+{'concurrent.futures': <Logger concurrent.futures (WARNING)>, 'concurrent': <logging.PlaceHolder object at 0x000001DD3295C848>, 'asyncio': <Logger asyncio (WARNING)>, 'django.utils.autoreload': <Logger django.utils.autoreload (INFO)>, 'django.utils': <logging.PlaceHolder object at 0x000001DD32C0E908>, 'django': <Logger django (INFO)>, 'django.template': <Logger django.template (INFO)>, 'django.db.backends': <Logger django.db.backends (INFO)>, 'django.db': <logging.PlaceHolder object at 0x000001DD33738608>, 'django.request': <Logger django.request (INFO)>, 'django.server': <Logger django.server (INFO)>, 'todo': <Logger todo (INFO)>, 'django.security.csrf': <Logger django.security.csrf (INFO)>, 'django.security': <logging.PlaceHolder object at 0x000001DD33A14088>, 'django.db.backends.schema': <Logger django.db.backends.schema (INFO)>, 'urllib3.util.retry': <Logger urllib3.util.retry (WARNING)>, 'urllib3.util': <logging.PlaceHolder object at 0x000001DD34215548>, 'urllib3': <Logger urllib3 (WARNING)>, 'urllib3.connection': <Logger urllib3.connection (WARNING)>, 'urllib3.response': <Logger urllib3.response (WARNING)>, 'urllib3.connectionpool': <Logger urllib3.connectionpool (WARNING)>, 'urllib3.poolmanager': <Logger urllib3.poolmanager (WARNING)>, 'socks': <Logger socks (WARNING)>, 'requests': <Logger requests (WARNING)>, 'view': <Logger view (WARNING)>}
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 12, 2021 - 23:56:19
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 14:38:22
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+{'concurrent.futures': <Logger concurrent.futures (WARNING)>, 'concurrent': <logging.PlaceHolder object at 0x000001EC4E80C888>, 'asyncio': <Logger asyncio (WARNING)>, 'django.utils.autoreload': <Logger django.utils.autoreload (INFO)>, 'django.utils': <logging.PlaceHolder object at 0x000001EC4EACE8C8>, 'django': <Logger django (INFO)>, 'django.template': <Logger django.template (INFO)>, 'django.db.backends': <Logger django.db.backends (INFO)>, 'django.db': <logging.PlaceHolder object at 0x000001EC4F5F86C8>, 'django.request': <Logger django.request (INFO)>, 'django.server': <Logger django.server (INFO)>, 'todo': <Logger todo (INFO)>, 'django.security.csrf': <Logger django.security.csrf (INFO)>, 'django.security': <logging.PlaceHolder object at 0x000001EC4F8D4048>, 'django.db.backends.schema': <Logger django.db.backends.schema (INFO)>, 'urllib3.util.retry': <Logger urllib3.util.retry (WARNING)>, 'urllib3.util': <logging.PlaceHolder object at 0x000001EC500C6E48>, 'urllib3': <Logger urllib3 (WARNING)>, 'urllib3.connection': <Logger urllib3.connection (WARNING)>, 'urllib3.response': <Logger urllib3.response (WARNING)>, 'urllib3.connectionpool': <Logger urllib3.connectionpool (WARNING)>, 'urllib3.poolmanager': <Logger urllib3.poolmanager (WARNING)>, 'socks': <Logger socks (WARNING)>, 'requests': <Logger requests (WARNING)>}
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 14:39:01
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 15:31:55
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 15:32:08
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 15:32:35
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 15:37:00
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 15:53:43
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 13, 2021 - 15:54:38
+Django version 3.1, using settings 'app.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.

@@ -1,7 +1,6 @@
 from pathlib import Path
 import os
 
-
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'zx8z%(vfwulm-n1rn!i=h4gt6vlxi2f(7lbw(*skh%c2h(i-!y'
@@ -21,6 +20,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'todo.apps.TodoConfig',
+
+    #Third party apps
     'rest_framework',
     'django_filters',
 ]
@@ -93,7 +94,6 @@ USE_L10N = True
 
 USE_TZ = True
 
-
 # Static files 
 STATIC_URL = '/static/'
 
@@ -102,4 +102,23 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.AllowAny',
     
     ]
+}
+
+#Logging
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+        },
+    },
+    'loggers': {
+        'todo': {
+            'handlers': ['console'],
+            'level': os.getenv('DJANGO_LOG_LEVEL', 'DEBUG'),
+            'propagate': True,
+        },
+    },
 }

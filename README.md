@@ -30,7 +30,7 @@ Las tareas pueden ser filtradas según su contenido o la fecha de elaboración.<
 Se puede acceder a una tarea en particular a través de su número de id: http://127.0.0.1:8000/todo/1/, por ejemplo. Allí se puede eliminar la tarea si así lo desea.
 
 ## Setup
-1. Primero hay que clonar el repositorio:
+1. Clonar el repositorio:
 ```
 $ git clone https://github.com/micaelagimenez/todo-challenge.git
 $ cd todo-challenge
@@ -44,15 +44,15 @@ $ myvenv\Scripts\activate
 ```
 (myvenv) $ pip install -r requirements.txt
 ```
-4. Make migrations.
+4. Realizar migraciones:
 ```
 (myvenv) $ python manage.py migrate
 ```
-5. Iniciar el servidor.
+5. Iniciar el servidor:
 ```
 (myvenv)$ python manage.py runserver
 ```
-5. Navegar a http://127.0.0.1:8000/todo/
+6. Navegar a http://127.0.0.1:8000/todo/
 
 ## Tests
 Para correr los tests tipear en la consola dentro del projecto:

@@ -45,7 +45,11 @@ $ myvenv\Scripts\activate
 (myvenv) $ cd todo-challenge
 (myvenv) $ pip install -r requirements.txt
 ```
-4. Iniciar el servidor.
+4. Make migrations.
+```
+(myvenv) $ python manage.py migrate
+```
+5. Iniciar el servidor.
 ```
 (myvenv)$ python manage.py runserver
 ```

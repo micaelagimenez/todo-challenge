@@ -40,9 +40,8 @@ $ cd todo-challenge
 $ python -m venv myvenv
 $ myvenv\Scripts\activate
 ```
-3. Ir a todo-challenge e instalar las dependencias:
+3. Instalar las dependencias:
 ```
-(myvenv) $ cd todo-challenge
 (myvenv) $ pip install -r requirements.txt
 ```
 4. Make migrations.

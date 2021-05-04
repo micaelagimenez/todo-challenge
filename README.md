@@ -1,4 +1,4 @@
-# Invera ToDo-List Challenge (Python/Django Jr-SSr)
+# ToDo-List Challenge
 
 Esta app crea una API con Django Rest Framework que provee una To-do list en la que se puede crear, borrar y marcar tareas como completadas, así como poder ver una lista de todas las tareas juntas y filtrarlas según su fecha de creación o el contenido de las mismas.
 
